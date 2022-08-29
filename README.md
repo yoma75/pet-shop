@@ -1,3 +1,2 @@
 # pet-shop
-# Html, Sass - CSS y Js
-![pet shop](https://user-images.githubusercontent.com/60888517/180622312-76699eaf-616a-46e5-9814-38686ae9fbb3.png)
+![FireShot Capture 030 - Pet Shop - ](https://user-images.githubusercontent.com/60888517/187106953-0f52d991-501a-40fe-b96a-2793e6ad6b15.png)
