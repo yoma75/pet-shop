@@ -494,6 +494,7 @@ section {
   flex: 1 1 40rem;
   display: flex;
   justify-content: center;
+  margin-left: 7rem;
 }
 .contact .image img {
   width: 60%;
@@ -501,6 +502,7 @@ section {
 .contact form {
   flex: 1 1 40rem;
   padding: 2rem 7%;
+  margin-right: 3rem;
 }
 .contact form .btn {
   width: 100%;

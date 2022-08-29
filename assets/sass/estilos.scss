@@ -569,6 +569,7 @@ section{
     flex:1 1 40rem;
     display: flex;
     justify-content: center;
+    margin-left: 7rem;
 
     img{
       width: 60%;
@@ -578,6 +579,7 @@ section{
   form{
     flex: 1 1 40rem;
     padding:2rem 7%;
+    margin-right: 3rem;
 
     .btn{
       @include form-btn();
